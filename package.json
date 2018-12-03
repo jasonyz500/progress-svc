@@ -25,6 +25,7 @@
     "hapi-auth-jwt2": "^8.1.0",
     "joi": "^13.4.0",
     "moment": "^2.22.2",
+    "nodemailer": "^4.7.0",
     "pg": "^7.4.3"
   },
   "devDependencies": {
