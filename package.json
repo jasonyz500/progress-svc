@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node lib/server.js",
-    "dev": "nodemon lib/server.js",
+    "start": "nodemon lib/server.js",
+    "start-prod": "node lib/server.js",
     "test": "lab --coverage --verbose"
   },
   "repository": {
